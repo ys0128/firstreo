@@ -1,6 +1,6 @@
 print("Open SW lecture")
 
-# 202101475 컴퓨터공학부 박윤서
+print("202101475 컴퓨터공학부 박윤서")   #학번 이름 print로 출력
 
 #editttttt
 #3333
